@@ -25,3 +25,8 @@ function greet(name) {
 
 const greeting = greet("Alice")
 console.log(greeting)
+
+
+
+my=document.getElementById("my")
+console.lo(my)
