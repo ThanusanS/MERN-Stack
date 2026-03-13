@@ -30,3 +30,5 @@ console.log(greeting)
 
 my=document.getElementById("my")
 console.lo(my)
+
+document.getElementById("my").innerHTML="hiiiiiiiii"
